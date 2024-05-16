@@ -1,0 +1,14 @@
+body {
+  background-color: pink;
+}
+img {
+  width: 300px;
+  height: 300px;
+}
+div {
+  padding-top: 100px;
+}
+
+.navbar navbar-expand-lg bg-body-tertiary {
+  margin: -390px;
+}
