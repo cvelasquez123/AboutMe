@@ -19,4 +19,26 @@ div {
 }
 .navbarControls {
   margin-left: 250px;
+  display: inline;
+  text-decoration: none;
+  padding-right: 10px;
+}
+p {
+  color: white;
+  background-color: black;
+  padding: 10px;
+  border-radius: 20px;
+  width: 300px;
+}
+a {
+  text-decoration: none;
+}
+button {
+  margin-top: 10px;
+  border-radius: 30px;
+  background-color: black;
+}
+
+.Black {
+  margin-top: -10px;
 }
